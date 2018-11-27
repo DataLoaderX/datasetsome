@@ -1,6 +1,6 @@
 **/.ipynb_checkpoints
 **/__pycache__
-build/
+**/build/
 *.json
 *.params
 *.DS_Store
@@ -8,3 +8,4 @@ build/
 *egg-info*
 **/dist
 **/draft
+**/temp
