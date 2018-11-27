@@ -1,0 +1,10 @@
+**/.ipynb_checkpoints
+**/__pycache__
+build/
+*.json
+*.params
+*.DS_Store
+*.csv
+*egg-info*
+dist*
+**/draft
