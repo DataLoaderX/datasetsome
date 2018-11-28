@@ -16,19 +16,8 @@ API：[xhw.py](dataloader/xhw.py)
 
 该数据集的详细介绍，可参考 [omniglot/README.md](./omniglot/README.md)
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## 3  COCO
 
+COCO 数据集的使用详见 [COCO 使用说明](https://www.cnblogs.com/q735613050/p/9888732.html)
 
 ## 4  
