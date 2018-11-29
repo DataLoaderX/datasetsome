@@ -18,6 +18,4 @@ API：[xhw.py](dataloader/xhw.py)
 
 ## 3  COCO
 
-COCO 数据集的使用详见 [COCO 使用说明](https://www.cnblogs.com/q735613050/p/9888732.html)
-
-## 4  
+COCO 数据集的使用详见 [COCO 使用说明书](https://www.cnblogs.com/q735613050/p/10032687.html)，为了更加方便使用 COCO 数据集，我利用 Python 的 `zipfile` 模块写了一个无需解压，直接获取你需要信息的 API：[cocox](https://codexzone.github.io/cocox/)。
