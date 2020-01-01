@@ -6,6 +6,7 @@
 
 ## 数据集处理
 
+- [X.h5 数据集的创建和使用](simpledataset/README.md)
 - [COCO 数据集](coco/README.md)
 - [CASIA 脱机和在线手写汉字库](casia/README.md)
 - [omniglot 数据集](omniglot/README.md)
@@ -34,4 +35,4 @@ $ git submodule init
 $ git submodule update
 ```
 
-拉取子模的更新。由于 SimpleDataset 存储了部分数据集，该子模块有点大，故而使用 [Git LFS](https://zzz.buzz/zh/2016/04/19/the-guide-to-git-lfs/) 进行管理。
+拉取子模的更新。
